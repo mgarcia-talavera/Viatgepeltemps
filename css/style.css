@@ -66,6 +66,7 @@ Contenidor del lloc reponsive
   padding-bottom: 50px;
   width: 100%;
   text-align: justify;
+  background-color: rgb(243, 170, 61);
 }
 
 .container2 {
@@ -76,7 +77,9 @@ Contenidor del lloc reponsive
   width: 100%;
   height: 80vh;
   text-align: justify;
+  background-color: rgb(243, 170, 61);
 }
+
 
 /*********************************************************************
 Cos del lloc
@@ -90,11 +93,11 @@ body {
 
 
   a:link {
-    color: rgb(38, 17, 228);  
+    color: rgb(255, 255, 255);  
   }
 
   a:visited {
-    color: rgb(196, 115, 22);
+    color: rgb(206, 45, 45);
   }
 
   h1, h2 {
@@ -188,6 +191,9 @@ Footer
   }
 
  
+  .sncolor{
+    background-color:transparent;
+  }
  
 
   /************************************************************************
