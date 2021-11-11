@@ -164,6 +164,8 @@ body {
     margin-right: auto;
     margin-left: auto;
     width: 100%;
+    box-shadow: 0 10px 50px -22px black;
+    z-index: 2;
 
   }
 
@@ -172,6 +174,14 @@ body {
     padding-top: 30px;
     padding-bottom: 30px;
     padding-left: 20px;
+  }
+
+  .logo {
+
+    font-family: Fewt;
+    font-size: 30px;
+    padding-left: 20px;
+    padding-right: 30px;
   }
 /***************************************************************************
 Footer
