@@ -192,7 +192,7 @@ Footer
   Pantalla d'inici
   ************************************************************************/
   .home {
-    background-image: url(../images/rellotge.png);
+    background-image: url(/rellotge.2b4e6c5e.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center top;
@@ -288,3 +288,5 @@ Footer
     padding-top: 10px;
     padding-bottom: 10px;
   }
+
+/*# sourceMappingURL=/style.78032849.css.map */
