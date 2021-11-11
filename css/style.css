@@ -69,6 +69,16 @@ Contenidor del lloc reponsive
   background-color: rgb(243, 170, 61);
 }
 
+.container1 {
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-bottom: 50px;
+  width: 100%;
+  text-align: justify;
+}
+
 .container2 {
   margin-right: auto;
   margin-left: auto;
