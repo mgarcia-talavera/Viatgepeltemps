@@ -8,7 +8,46 @@
     <title>Viatges en el Temps</title>
   </head>
 <body class="home">
-  <script src ="index.js"></script>
+  <script src ="index.js">
+   const play = required ('audio-play');
+   const load = required ('audio-loader');
+
+   load('musica/sample.mp3').then(play);
+
+   let pause = play(audioBuffer, {
+  //start/end time, can be negative to measure from the end
+  start: 1,
+  end: audioBuffer.duration,
+
+  //repeat playback within start/end
+  loop: true,
+
+  //playback rate
+  rate: 1,
+
+  //fine-tune of playback rate, in cents
+  detune: 0,
+
+  //volume
+  volume: 10,
+
+  //start playing immediately
+  autoplay: true
+}, onend);
+
+//pause/continue playback
+play = pause();
+pause = play();
+
+//or usual way
+let playback = play(buffer, opts, cb);
+playback.pause();
+playback.play();
+
+//get played time
+playback.currentTime;
+
+  </script>
       <header class="sncolor">
         <nav>
           <ul>
