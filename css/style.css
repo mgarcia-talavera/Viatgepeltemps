@@ -165,6 +165,7 @@ body {
     margin-left: auto;
     width: 100%;
     z-index: 2;
+    text-align: center;
 
   }
 
@@ -172,6 +173,7 @@ body {
     display: inline-block;
     padding-top: 30px;
     padding-bottom: 30px;
+    padding-left: 25px;
   }
 
   .logo {
@@ -182,6 +184,12 @@ body {
     padding-right: 30px;
   }
 
+  @media (min-width: 540px) {
+    .head {
+    
+      padding-left: 25px;
+    }
+  }
   
 
   

@@ -9,51 +9,17 @@
   </head>
 <body class="home">
   <script src ="index.js">
-   const play = required ('audio-play');
-   const load = required ('audio-loader');
-
-   load('musica/sample.mp3').then(play);
-
-   let pause = play(audioBuffer, {
-  //start/end time, can be negative to measure from the end
-  start: 1,
-  end: audioBuffer.duration,
-
-  //repeat playback within start/end
-  loop: true,
-
-  //playback rate
-  rate: 1,
-
-  //fine-tune of playback rate, in cents
-  detune: 0,
-
-  //volume
-  volume: 10,
-
-  //start playing immediately
-  autoplay: true
-}, onend);
-
-//pause/continue playback
-play = pause();
-pause = play();
-
-//or usual way
-let playback = play(buffer, opts, cb);
-playback.pause();
-playback.play();
-
-//get played time
-playback.currentTime;
-
+ load('https://freemusicarchive.org/music/Doyeq/Eyelashes_Of_Lanterns/pass003_-_04_doyeq_-_train_travel').then(function (buffer) {
+  // buffer is an AudioBuffer
+  play(buffer)
+})
   </script>
       <header class="sncolor">
         <nav>
           <ul>
             <li><a href="presentacio.html">Què és Temporalis?</a></li>
             <li><a href="categoria.html">Excursions</a></li>
-            <li><a href="enllaços.html">Enllaços externs</a></li>
+            <li><a href="enllaços.html" class="head">Enllaços externs</a></li>
           </ul>
         </nav>
       </header>
