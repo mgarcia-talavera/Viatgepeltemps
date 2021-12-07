@@ -283,6 +283,10 @@ Footer
 
   }
 
+  #indexnav a:link{
+    color:rgb(255, 255, 255);
+  } 
+
   .titol{
     color: blanchedalmond;
     font-size: 4rem;
