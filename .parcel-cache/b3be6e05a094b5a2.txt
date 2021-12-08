@@ -1,14 +1,15 @@
-20563
-52/home/mgarcia-talavera/projecte/images/piramides.jpg1636284851995911700 0
+20569
+58/home/mgarcia-talavera/projecte/images/piramides600dpi.jpg1638976242740107100 0
+58/home/mgarcia-talavera/projecte/images/logotip3-300dpi.png1638985390190107100 0
 47/home/mgarcia-talavera/projecte/images/nil2.jpg1638890954381789300 0
 45/home/mgarcia-talavera/projecte/css/style.css1638871649051789300 0
 35/home/mgarcia-talavera/projecte/css1636283739205911700 1
-48/home/mgarcia-talavera/projecte/presentacio.html1638815307406691300 0
-58/home/mgarcia-talavera/projecte/dist/logotip3.a0a4348f.png1638900257061789300 0
-48/home/mgarcia-talavera/projecte/dist/detall.html1638900257291789300 0
-60/home/mgarcia-talavera/projecte/dist/piramides.88cd5d61.avif1638900256221789300 0
-59/home/mgarcia-talavera/projecte/dist/piramides.ce85b0a8.jpg1638900257061789300 0
-59/home/mgarcia-talavera/projecte/dist/index.2bc9c7b6.css.map1638900257301789300 0
+48/home/mgarcia-talavera/projecte/presentacio.html1638987001180107100 0
+58/home/mgarcia-talavera/projecte/dist/logotip3.a0a4348f.png1638987549000107100 0
+65/home/mgarcia-talavera/projecte/dist/piramides600dpi.effe13a0.jpg1638987549000107100 0
+48/home/mgarcia-talavera/projecte/dist/detall.html1638987549210107100 0
+65/home/mgarcia-talavera/projecte/dist/piramides300dpi.ce85b0a8.jpg1638987545570107100 0
+59/home/mgarcia-talavera/projecte/dist/index.2bc9c7b6.css.map1638987549220107100 0
 40/home/mgarcia-talavera/projecte/index.js1636627244468757500 0
 57/home/mgarcia-talavera/projecte/node_modules/resolve-from1637143157000870900 1
 68/home/mgarcia-talavera/projecte/node_modules/core-js/configurator.js499162500000000000 0
@@ -322,7 +323,7 @@
 73/home/mgarcia-talavera/projecte/node_modules/core-js/stable/math/index.js499162500000000000 0
 73/home/mgarcia-talavera/projecte/node_modules/core-js/stable/math/hypot.js499162500000000000 0
 77/home/mgarcia-talavera/projecte/node_modules/core-js/stable/weak-set/index.js499162500000000000 0
-53/home/mgarcia-talavera/projecte/dist/nil.d3c711cf.jpg1638900257061789300 0
+53/home/mgarcia-talavera/projecte/dist/nil.d3c711cf.jpg1638987549000107100 0
 68/home/mgarcia-talavera/projecte/node_modules/core-js/stable/weak-set1637143153120870900 1
 63/home/mgarcia-talavera/projecte/node_modules/core-js/stable/map1637143153100870900 1
 74/home/mgarcia-talavera/projecte/node_modules/core-js/stable/parse-float.js499162500000000000 0
@@ -921,6 +922,7 @@
 82/home/mgarcia-talavera/projecte/node_modules/argparse/lib/help/added_formatters.js1475151307000000000 0
 75/home/mgarcia-talavera/projecte/node_modules/argparse/lib/help/formatter.js1518704419000000000 0
 77/home/mgarcia-talavera/projecte/node_modules/argparse/lib/action_container.js1475151091000000000 0
+69/home/mgarcia-talavera/projecte/dist/temple_egipci_799px.33dd514a.jpg1638987545570107100 0
 66/home/mgarcia-talavera/projecte/node_modules/argparse/lib/const.js1453017408000000000 0
 75/home/mgarcia-talavera/projecte/node_modules/argparse/lib/argument/error.js1424151350000000000 0
 63/home/mgarcia-talavera/projecte/node_modules/argparse/README.md1518704419000000000 0
@@ -2044,7 +2046,7 @@
 105/home/mgarcia-talavera/projecte/node_modules/browserify-sign/node_modules/readable-stream/CONTRIBUTING.md499162500000000000 0
 112/home/mgarcia-talavera/projecte/node_modules/browserify-sign/node_modules/readable-stream/experimentalWarning.js499162500000000000 0
 103/home/mgarcia-talavera/projecte/node_modules/browserify-sign/node_modules/readable-stream/GOVERNANCE.md499162500000000000 0
-36/home/mgarcia-talavera/projecte/dist1638900257301789300 1
+36/home/mgarcia-talavera/projecte/dist1638987549220107100 1
 114/home/mgarcia-talavera/projecte/node_modules/browserify-sign/node_modules/readable-stream/lib/_stream_transform.js499162500000000000 0
 128/home/mgarcia-talavera/projecte/node_modules/browserify-sign/node_modules/readable-stream/lib/internal/streams/async_iterator.js499162500000000000 0
 125/home/mgarcia-talavera/projecte/node_modules/browserify-sign/node_modules/readable-stream/lib/internal/streams/buffer_list.js499162500000000000 0
@@ -2116,7 +2118,7 @@
 69/home/mgarcia-talavera/projecte/node_modules/hosted-git-info/index.js499162500000000000 0
 70/home/mgarcia-talavera/projecte/node_modules/hosted-git-info/README.md499162500000000000 0
 74/home/mgarcia-talavera/projecte/node_modules/minimalistic-assert/readme.md499162500000000000 0
-38/home/mgarcia-talavera/projecte/images1638890954361789300 1
+38/home/mgarcia-talavera/projecte/images1638985390240107100 1
 73/home/mgarcia-talavera/projecte/node_modules/minimalistic-assert/index.js499162500000000000 0
 72/home/mgarcia-talavera/projecte/node_modules/minimalistic-assert/LICENSE499162500000000000 0
 64/home/mgarcia-talavera/projecte/node_modules/minimalistic-assert1637143157440870900 1
@@ -2614,7 +2616,7 @@
 51/home/mgarcia-talavera/projecte/node_modules/strnum1638551640669988400 1
 61/home/mgarcia-talavera/projecte/node_modules/globby/readme.md499162500000000000 0
 62/home/mgarcia-talavera/projecte/node_modules/globby/index.d.ts499162500000000000 0
-43/home/mgarcia-talavera/projecte/detall.html1638892856541789300 0
+43/home/mgarcia-talavera/projecte/detall.html1638986981270107100 0
 60/home/mgarcia-talavera/projecte/node_modules/globby/index.js499162500000000000 0
 86/home/mgarcia-talavera/projecte/node_modules/caniuse-lite/data/features/css-subgrid.js499162500000000000 0
 67/home/mgarcia-talavera/projecte/node_modules/globby/stream-utils.js499162500000000000 0
@@ -3133,7 +3135,7 @@
 89/home/mgarcia-talavera/projecte/node_modules/imagemin-svgo/node_modules/svgo/package.json1638551640649988400 0
 76/home/mgarcia-talavera/projecte/node_modules/imagemin-svgo/node_modules/svgo1638551640669988400 1
 90/home/mgarcia-talavera/projecte/node_modules/imagemin-svgo/node_modules/css-what/readme.md499162500000000000 0
-58/home/mgarcia-talavera/projecte/dist/rellotge.db19aaec.png1638900256321789300 0
+58/home/mgarcia-talavera/projecte/dist/rellotge.db19aaec.png1638987545570107100 0
 67/home/mgarcia-talavera/projecte/node_modules/nth-check/lib/index.js499162500000000000 0
 97/home/mgarcia-talavera/projecte/node_modules/imagemin-svgo/node_modules/css-what/lib/stringify.js499162500000000000 0
 99/home/mgarcia-talavera/projecte/node_modules/imagemin-svgo/node_modules/css-what/lib/index.d.ts.map499162500000000000 0
@@ -3919,7 +3921,7 @@
 58/home/mgarcia-talavera/projecte/node_modules/seek-bzip/bin1638551638919988400 1
 68/home/mgarcia-talavera/projecte/node_modules/seek-bzip/lib/stream.js499162500000000000 0
 67/home/mgarcia-talavera/projecte/node_modules/seek-bzip/lib/crc32.js499162500000000000 0
-47/home/mgarcia-talavera/projecte/dist/index.html1638900257291789300 0
+47/home/mgarcia-talavera/projecte/dist/index.html1638987549210107100 0
 58/home/mgarcia-talavera/projecte/node_modules/seek-bzip/lib1638551639049988400 1
 64/home/mgarcia-talavera/projecte/node_modules/seek-bzip/README.md499162500000000000 0
 62/home/mgarcia-talavera/projecte/node_modules/seek-bzip/LICENSE499162500000000000 0
@@ -4156,7 +4158,7 @@
 70/home/mgarcia-talavera/projecte/node_modules/http-signature/CHANGES.md1503623992000000000 0
 72/home/mgarcia-talavera/projecte/node_modules/http-signature/lib/utils.js1503623992000000000 0
 72/home/mgarcia-talavera/projecte/node_modules/http-signature/lib/index.js1503623992000000000 0
-54/home/mgarcia-talavera/projecte/dist/index.6fbd722e.js1638900257291789300 0
+54/home/mgarcia-talavera/projecte/dist/index.6fbd722e.js1638987549210107100 0
 73/home/mgarcia-talavera/projecte/node_modules/http-signature/lib/parser.js1503689277000000000 0
 74/home/mgarcia-talavera/projecte/node_modules/whatwg-mimetype/lib/parser.js499162500000000000 0
 67/home/mgarcia-talavera/projecte/node_modules/css-select/lib/sort.js499162500000000000 0
@@ -7909,6 +7911,7 @@
 102/home/mgarcia-talavera/projecte/node_modules/gifsicle/node_modules/cross-spawn/lib/util/readShebang.js499162500000000000 0
 90/home/mgarcia-talavera/projecte/node_modules/@babel/core/node_modules/json5/lib/require.js499162500000000000 0
 79/home/mgarcia-talavera/projecte/node_modules/@babel/traverse/lib/path/generated1637143146570870900 1
+58/home/mgarcia-talavera/projecte/images/logotip3-600dpi.png1638985390240107100 0
 100/home/mgarcia-talavera/projecte/node_modules/msgpackr-extract/prebuilds/darwin-arm64/node.abi93.node499162500000000000 0
 66/home/mgarcia-talavera/projecte/node_modules/terser/tools/exit.cjs499162500000000000 0
 99/home/mgarcia-talavera/projecte/node_modules/@parcel/markdown-ansi/node_modules/has-flag/index.d.ts499162500000000000 0
@@ -8254,7 +8257,7 @@
 99/home/mgarcia-talavera/projecte/node_modules/@babel/types/lib/modifications/removePropertiesDeep.js456789000000000000 0
 123/home/mgarcia-talavera/projecte/node_modules/@babel/helper-compilation-targets/node_modules/caniuse-lite/data/regions/KG.js499162500000000000 0
 123/home/mgarcia-talavera/projecte/node_modules/@babel/helper-compilation-targets/node_modules/caniuse-lite/data/regions/ST.js499162500000000000 0
-54/home/mgarcia-talavera/projecte/dist/index.59668706.js1638900257291789300 0
+54/home/mgarcia-talavera/projecte/dist/index.59668706.js1638987549210107100 0
 66/home/mgarcia-talavera/projecte/node_modules/jake/lib/task/task.js1591683229000000000 0
 88/home/mgarcia-talavera/projecte/node_modules/es-abstract/2020/BigInt/signedRightShift.js499162500000000000 0
 98/home/mgarcia-talavera/projecte/node_modules/@parcel/markdown-ansi/node_modules/color-name/LICENSE499162500000000000 0
@@ -8986,7 +8989,7 @@
 128/home/mgarcia-talavera/projecte/node_modules/@babel/helper-compilation-targets/node_modules/caniuse-lite/dist/unpacker/agents.js499162500000000000 0
 126/home/mgarcia-talavera/projecte/node_modules/@babel/helper-compilation-targets/node_modules/caniuse-lite/data/features/menu.js499162500000000000 0
 94/home/mgarcia-talavera/projecte/node_modules/@parcel/fs-write-stream-atomic/test/slow-close.js499162500000000000 0
-54/home/mgarcia-talavera/projecte/dist/nil2.9bd43e66.jpg1638900256321789300 0
+54/home/mgarcia-talavera/projecte/dist/nil2.9bd43e66.jpg1638987545570107100 0
 127/home/mgarcia-talavera/projecte/node_modules/@babel/helper-compilation-targets/node_modules/caniuse-lite/data/features/http3.js499162500000000000 0
 87/home/mgarcia-talavera/projecte/node_modules/@parcel/markdown-ansi/lib/markdown-ansi.js499162500000000000 0
 77/home/mgarcia-talavera/projecte/node_modules/domexception/lib/DOMException.js1516581143000000000 0
@@ -11087,6 +11090,7 @@
 105/home/mgarcia-talavera/projecte/node_modules/@parcel/transformer-json/node_modules/json5/lib/stringify.js499162500000000000 0
 93/home/mgarcia-talavera/projecte/node_modules/log-symbols/node_modules/supports-color/index.js499162500000000000 0
 89/home/mgarcia-talavera/projecte/node_modules/@babel/compat-data/data/plugin-bugfixes.json456789000000000000 0
+62/home/mgarcia-talavera/projecte/images/temple_egipci_799px.jpg1638960557830000000 0
 61/home/mgarcia-talavera/projecte/node_modules/lodash/pullAt.js499162500000000000 0
 72/home/mgarcia-talavera/projecte/node_modules/av/src/sources/node/file.js1471111555000000000 0
 72/home/mgarcia-talavera/projecte/node_modules/core-js/es/object/freeze.js499162500000000000 0
@@ -12074,6 +12078,7 @@
 114/home/mgarcia-talavera/projecte/node_modules/@babel/helper-compilation-targets/node_modules/caniuse-lite/README.md499162500000000000 0
 66/home/mgarcia-talavera/projecte/node_modules/argparse/lib/argument1638551639249988400 1
 73/home/mgarcia-talavera/projecte/node_modules/to-array-buffer/node_modules1636732562572363100 1
+65/home/mgarcia-talavera/projecte/dist/logotip3-600dpi.474b8d5a.png1638987549000107100 0
 78/home/mgarcia-talavera/projecte/node_modules/http-cache-semantics/package.json1638551641099988400 0
 71/home/mgarcia-talavera/projecte/node_modules/object-keys/isArguments.js499162500000000000 0
 107/home/mgarcia-talavera/projecte/node_modules/imagemin-svgo/node_modules/css-tree/lib/syntax/node/Comment.js499162500000000000 0
@@ -12091,7 +12096,7 @@
 133/home/mgarcia-talavera/projecte/node_modules/@babel/helper-compilation-targets/node_modules/caniuse-lite/data/features/css3-colors.js499162500000000000 0
 95/home/mgarcia-talavera/projecte/node_modules/@parcel/codeframe/node_modules/ansi-styles/license499162500000000000 0
 92/home/mgarcia-talavera/projecte/node_modules/@parcel/watcher/src/shared/BruteForceBackend.hh499162500000000000 0
-58/home/mgarcia-talavera/projecte/dist/index.59668706.js.map1638900257301789300 0
+58/home/mgarcia-talavera/projecte/dist/index.59668706.js.map1638987549220107100 0
 123/home/mgarcia-talavera/projecte/node_modules/@babel/helper-compilation-targets/node_modules/caniuse-lite/data/regions/NI.js499162500000000000 0
 57/home/mgarcia-talavera/projecte/node_modules/range-parser1637143157090870900 1
 51/home/mgarcia-talavera/projecte/node_modules/big.js1637143157930870900 1
@@ -14297,7 +14302,7 @@
 61/home/mgarcia-talavera/projecte/node_modules/unquote/index.js1513569081000000000 0
 86/home/mgarcia-talavera/projecte/node_modules/path-browserify/test/test-path-resolve.js499162500000000000 0
 92/home/mgarcia-talavera/projecte/node_modules/@parcel/watcher/src/shared/BruteForceBackend.cc499162500000000000 0
-46/home/mgarcia-talavera/projecte/enllaços.html1638814879086691300 0
+46/home/mgarcia-talavera/projecte/enllaços.html1638986992790107100 0
 76/home/mgarcia-talavera/projecte/node_modules/caniuse-lite/data/regions/PH.js499162500000000000 0
 79/home/mgarcia-talavera/projecte/node_modules/cosmiconfig/dist/ExplorerBase.d.ts499162500000000000 0
 73/home/mgarcia-talavera/projecte/node_modules/@parcel/logger/src/Logger.js499162500000000000 0
@@ -15994,7 +15999,7 @@
 89/home/mgarcia-talavera/projecte/node_modules/@parcel/transformer-postcss/lib/constants.js499162500000000000 0
 85/home/mgarcia-talavera/projecte/node_modules/core-js/features/typed-array/group-by.js499162500000000000 0
 73/home/mgarcia-talavera/projecte/node_modules/@parcel/workers/lib/index.js499162500000000000 0
-51/home/mgarcia-talavera/projecte/dist/categoria.html1638900257291789300 0
+51/home/mgarcia-talavera/projecte/dist/categoria.html1638987549210107100 0
 76/home/mgarcia-talavera/projecte/node_modules/@parcel/workers/lib/cpuCount.js499162500000000000 0
 95/home/mgarcia-talavera/projecte/node_modules/gifsicle/node_modules/shebang-command/package.json1638551641109988400 0
 74/home/mgarcia-talavera/projecte/node_modules/@parcel/workers/lib/Handle.js499162500000000000 0
@@ -16401,7 +16406,6 @@
 76/home/mgarcia-talavera/projecte/node_modules/js-yaml/lib/js-yaml/type/map.js499162500000000000 0
 137/home/mgarcia-talavera/projecte/node_modules/@babel/helper-compilation-targets/node_modules/caniuse-lite/data/features/intrinsic-width.js499162500000000000 0
 99/home/mgarcia-talavera/projecte/node_modules/@parcel/packager-css/node_modules/postcss/lib/parse.js499162500000000000 0
-64/home/mgarcia-talavera/projecte/dist/temple_egipci.a8c0efc8.avif1638900256221789300 0
 91/home/mgarcia-talavera/projecte/node_modules/jsdom/lib/jsdom/living/generated/CloseEvent.js499162500000000000 0
 68/home/mgarcia-talavera/projecte/node_modules/lodash/fp/lowerFirst.js499162500000000000 0
 103/home/mgarcia-talavera/projecte/node_modules/@parcel/packager-css/node_modules/postcss/lib/at-rule.d.ts499162500000000000 0
@@ -17449,7 +17453,7 @@
 65/home/mgarcia-talavera/projecte/node_modules/is-extglob/README.md1472929935000000000 0
 82/home/mgarcia-talavera/projecte/node_modules/cssstyle/lib/properties/background.js499162500000000000 0
 81/home/mgarcia-talavera/projecte/node_modules/postcss-ordered-values/dist/index.js499162500000000000 0
-63/home/mgarcia-talavera/projecte/dist/temple_egipci.779a8631.jpg1638900257061789300 0
+63/home/mgarcia-talavera/projecte/dist/temple_egipci.779a8631.jpg1638987549000107100 0
 76/home/mgarcia-talavera/projecte/node_modules/caniuse-lite/data/regions/IQ.js499162500000000000 0
 77/home/mgarcia-talavera/projecte/node_modules/css-select-base-adapter/index.js499162500000000000 0
 65/home/mgarcia-talavera/projecte/node_modules/lodash/fp/entries.js499162500000000000 0
@@ -17479,7 +17483,7 @@
 68/home/mgarcia-talavera/projecte/node_modules/lodash/fp/toIterator.js499162500000000000 0
 73/home/mgarcia-talavera/projecte/node_modules/core-js/stable/array/join.js499162500000000000 0
 74/home/mgarcia-talavera/projecte/node_modules/es-abstract/2017/IsInteger.js499162500000000000 0
-31/home/mgarcia-talavera/projecte1638900256191789300 1
+31/home/mgarcia-talavera/projecte1638987545530107100 1
 63/home/mgarcia-talavera/projecte/node_modules/audio-type/license1461331543000000000 0
 67/home/mgarcia-talavera/projecte/node_modules/escalade/dist/index.js499162500000000000 0
 68/home/mgarcia-talavera/projecte/node_modules/audio-type/package.json1636737330662363100 0
@@ -17592,7 +17596,7 @@
 66/home/mgarcia-talavera/projecte/node_modules/lodash/fp/parseInt.js499162500000000000 0
 52/home/mgarcia-talavera/projecte/node_modules/p-event1638551640909988400 1
 63/home/mgarcia-talavera/projecte/node_modules/lodash/findLast.js499162500000000000 0
-46/home/mgarcia-talavera/projecte/categoria.html1638814864706691300 0
+46/home/mgarcia-talavera/projecte/categoria.html1638986974760107100 0
 75/home/mgarcia-talavera/projecte/node_modules/npm-run-all/lib/spawn-posix.js499162500000000000 0
 77/home/mgarcia-talavera/projecte/node_modules/string.prototype.padend/index.js499162500000000000 0
 56/home/mgarcia-talavera/projecte/node_modules/create-hmac1637143156990870900 1
@@ -17709,7 +17713,7 @@
 77/home/mgarcia-talavera/projecte/node_modules/css-declaration-sorter/readme.md499162500000000000 0
 67/home/mgarcia-talavera/projecte/node_modules/mimic-response/license1496344655000000000 0
 52/home/mgarcia-talavera/projecte/node_modules/yallist1637143156700870900 1
-51/home/mgarcia-talavera/projecte/dist/enllaços.html1638900257291789300 0
+51/home/mgarcia-talavera/projecte/dist/enllaços.html1638987549210107100 0
 64/home/mgarcia-talavera/projecte/node_modules/isstream/.npmignore1396757852000000000 0
 60/home/mgarcia-talavera/projecte/node_modules/yallist/LICENSE499162500000000000 0
 70/home/mgarcia-talavera/projecte/node_modules/core-js/modules/es.map.js499162500000000000 0
@@ -17802,7 +17806,7 @@
 78/home/mgarcia-talavera/projecte/node_modules/htmlnano/lib/modules/minifySvg.js499162500000000000 0
 66/home/mgarcia-talavera/projecte/node_modules/download/package.json1638551640629988400 0
 63/home/mgarcia-talavera/projecte/node_modules/download/readme.md1497793636000000000 0
-55/home/mgarcia-talavera/projecte/dist/index.2bc9c7b6.css1638900257291789300 0
+55/home/mgarcia-talavera/projecte/dist/index.2bc9c7b6.css1638987549210107100 0
 64/home/mgarcia-talavera/projecte/node_modules/lodash/fp/nthArg.js499162500000000000 0
 64/home/mgarcia-talavera/projecte/node_modules/object-is/README.md499162500000000000 0
 122/home/mgarcia-talavera/projecte/node_modules/@parcel/source-map/parcel_sourcemap_node/artifacts/index.linux-arm64-gnu.node499162500000000000 0
@@ -18048,7 +18052,7 @@
 71/home/mgarcia-talavera/projecte/node_modules/decompress-unzip/readme.md1463751220000000000 0
 78/home/mgarcia-talavera/projecte/node_modules/es-abstract/2021/StringIndexOf.js499162500000000000 0
 80/home/mgarcia-talavera/projecte/node_modules/elliptic/lib/elliptic/curve/base.js499162500000000000 0
-53/home/mgarcia-talavera/projecte/dist/presentacio.html1638900257291789300 0
+53/home/mgarcia-talavera/projecte/dist/presentacio.html1638987549210107100 0
 68/home/mgarcia-talavera/projecte/node_modules/cssstyle/lib/parsers.js499162500000000000 0
 78/home/mgarcia-talavera/projecte/node_modules/elliptic/lib/elliptic/ec/index.js499162500000000000 0
 49/home/mgarcia-talavera/projecte/node_modules/pako1637143157290870900 1
@@ -18214,6 +18218,7 @@
 83/home/mgarcia-talavera/projecte/node_modules/chrome-trace-event/dist/trace-event.js499162500000000000 0
 51/home/mgarcia-talavera/projecte/node_modules/nanoid1637143157430870900 1
 60/home/mgarcia-talavera/projecte/node_modules/nanoid/index.js499162500000000000 0
+58/home/mgarcia-talavera/projecte/images/piramides300dpi.jpg1638976242520107100 0
 96/home/mgarcia-talavera/projecte/node_modules/@babel/helper-optimise-call-expression/package.json1637143156840870900 0
 62/home/mgarcia-talavera/projecte/node_modules/lodash/unionBy.js499162500000000000 0
 93/home/mgarcia-talavera/projecte/node_modules/imagemin-svgo/node_modules/css-what/lib/index.js499162500000000000 0
@@ -19167,6 +19172,7 @@
 63/home/mgarcia-talavera/projecte/node_modules/lodash/fp/forIn.js499162500000000000 0
 66/home/mgarcia-talavera/projecte/node_modules/lodash/fp/invertBy.js499162500000000000 0
 65/home/mgarcia-talavera/projecte/node_modules/lodash/fp/replace.js499162500000000000 0
+65/home/mgarcia-talavera/projecte/dist/logotip3-300dpi.ff932a42.png1638987545570107100 0
 62/home/mgarcia-talavera/projecte/node_modules/lodash/fp/once.js499162500000000000 0
 74/home/mgarcia-talavera/projecte/node_modules/read-pkg-up/node_modules/pify1638551640819988400 1
 64/home/mgarcia-talavera/projecte/node_modules/lodash/fp/before.js499162500000000000 0
@@ -19771,7 +19777,7 @@
 72/home/mgarcia-talavera/projecte/node_modules/es-abstract/2015/ToUint8.js499162500000000000 0
 69/home/mgarcia-talavera/projecte/node_modules/domutils/lib/legacy.d.ts499162500000000000 0
 78/home/mgarcia-talavera/projecte/node_modules/es-abstract/2015/IsPropertyKey.js499162500000000000 0
-58/home/mgarcia-talavera/projecte/dist/index.6fbd722e.js.map1638900257301789300 0
+58/home/mgarcia-talavera/projecte/dist/index.6fbd722e.js.map1638987549220107100 0
 62/home/mgarcia-talavera/projecte/node_modules/msgpackr/index.js499162500000000000 0
 91/home/mgarcia-talavera/projecte/node_modules/es-abstract/2015/CompletePropertyDescriptor.js499162500000000000 0
 71/home/mgarcia-talavera/projecte/node_modules/caniuse-lite/data/features1634457535410305600 1
