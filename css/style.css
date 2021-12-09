@@ -175,8 +175,20 @@ body {
   
   }
 
-  .logo {
+  .circle {
   margin-left: 45%;
+  animation: 2s infinite alternate circle;
+  }
+
+  @keyframes circle {
+    from {
+      -webkit-clip-path: circle(0%);
+      clip-path: circle(0%);
+    }
+    to {
+      -webkit-clip-path: circle(120px);
+      clip-path: circle(120px);
+    }
   }
 
   nav {
@@ -292,7 +304,7 @@ Footer
     font-size: 4rem;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     padding-top: 25%;
-    -webkit-text-stroke: 4px rgb(11, 49, 129);
+    -webkit-text-stroke: 2px rgb(11, 49, 129);
 
   }
 
@@ -417,3 +429,11 @@ Footer
     padding-top: 10px;
     padding-bottom: 10px;
   }
+
+  .destacada{
+    width: 27%;
+    height: 7vh;
+  }
+
+  .contenidor:hover .destacada {-webkit-transform:scale(1.7);transform:scale(1.7);}
+  .contenidor {overflow:hidden;}
