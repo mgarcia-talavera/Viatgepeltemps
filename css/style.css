@@ -294,7 +294,7 @@ Footer
 
   }
 
-  #indexnav a:link{
+  .indexnav a:link{
     color:rgb(255, 255, 255);
   } 
 
@@ -325,7 +325,7 @@ Footer
       font-size: 2rem;
       -webkit-text-stroke: 1px rgb(11, 49, 129);
     }
-    #indexnav{
+    .indexnav{
       font-size: 1.1rem;
     }
     #navindex{
